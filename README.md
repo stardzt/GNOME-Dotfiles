@@ -7,9 +7,9 @@
 | Command | Description |
 | --- | --- |
 | Desktop Environment | GNOME 49.2|
-| Icon Pack | [Papirus](https://github.com/PapirusDevelopmentTeam/papirus-icon-theme) with [Catppuccin-themed folders](https://github.com/catppuccin/papirus-folders) |
-| Font | Adwaita Sans Regular |
-| Theme | [Catppuccin GTK](https://github.com/catppuccin/gtk) (Mocha, maroon) |
+| Icon Pack | [Colloid](https://github.com/vinceliuice/Colloid-icon-theme) |
+| Font | [SF Pro Display Medium](https://github.com/sahibjotsaggu/San-Francisco-Pro-Fonts) |
+| Theme | [Catppuccin GTK Mocha Red](https://github.com/catppuccin/gtk) |
 | Widget | Conky ([Mirach](https://www.gnome-look.org/p/1851356)) 
 
 ### GNOME Extensions
