@@ -7,6 +7,7 @@
 | Command | Description |
 | --- | --- |
 | Desktop Environment | GNOME 49.2|
+| Terminal | [Ghostty](https://ghostty.org/)|
 | Icon Pack | [Colloid](https://github.com/vinceliuice/Colloid-icon-theme) |
 | Font | [SF Pro Display Medium](https://github.com/sahibjotsaggu/San-Francisco-Pro-Fonts) |
 | Theme | [Catppuccin GTK Mocha Red](https://github.com/catppuccin/gtk) |
