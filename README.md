@@ -9,12 +9,12 @@
 | Desktop Environment | GNOME 49.4 |
 | Terminal | GNOME Terminal |
 | Icon Pack | [Colloid Everforest Green](https://github.com/vinceliuice/Colloid-icon-theme) |
-| Font | Adwaita Sans |
+| Font | [SF Pro Display](https://github.com/sahibjotsaggu/San-Francisco-Pro-Fonts) | 
 | Theme | [Everforest Medium Dark](https://github.com/catppuccin/gtk) |
 | Widget | Conky ([Mirach](https://www.gnome-look.org/p/1851356)) 
 
 ### Discord
-A modified version of [Dark+ by DevEvil](https://betterdiscord.app/theme/Dark%2B) to match the Everforest theme. You can find the theme here. Use BetterDiscord or Vencord to apply the theme (I'm using Vencord so the theme file path should be in `~/.config/Vencord/themes`.
+A modified version of [midnight by refact0r](https://github.com/refact0r/midnight-discord) to match the Everforest theme. You can find the theme here. Use BetterDiscord or Vencord to apply the theme (I'm using Vencord so the theme file path should be in `~/.config/Vencord/themes`.
 
 ### GNOME Extensions
 - [ArcMenu](https://extensions.gnome.org/extension/3628/arcmenu/)
