@@ -1,7 +1,8 @@
 # GNOME-Dotfiles
 
 ### Screenshots
-![Screenshot](Screenshots/1)
+![Screenshot](Screenshots/2)
+![Screenshot](Screenshots/3)
 
 ### Setup Overview
 | Command | Description |
