@@ -15,6 +15,7 @@
 | Widget | Conky ([Mirach](https://www.gnome-look.org/p/1851356)) 
 
 ### Discord
+![Screenshot](Screenshots/discord)
 A modified version of [midnight by refact0r](https://github.com/refact0r/midnight-discord) to match the Everforest theme. You can find the theme here. Use BetterDiscord or Vencord to apply the theme (I'm using Vencord so the theme file path should be in `~/.config/Vencord/themes`.
 
 ### GNOME Extensions
