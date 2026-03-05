@@ -16,13 +16,14 @@
 
 ### Discord
 ![Screenshot](Screenshots/discord)
-A [modified](midnight-everforest.theme.css) version of [midnight by refact0r](https://github.com/refact0r/midnight-discord) to match the Everforest theme. Use BetterDiscord or Vencord to apply the theme. I'm using Vencord so the theme file path should be in `~/.config/Vencord/themes`.
+A [modified](midnight-everforest.theme.css) version of [midnight by refact0r](https://github.com/refact0r/midnight-discord) to match the Everforest theme. Use BetterDiscord or Vencord to apply the theme. I use Vencord so the theme file path should be in `~/.config/Vencord/themes`.
 
 ### Spotify
 ![Screenshot](Screenshots/spotify)
-I'm using [Comfy](https://github.com/Comfy-Themes/Spicetify) theme with Everforest color scheme. Use [Spicetify](https://spicetify.app/) to apply the theme.
+I use [Comfy](https://github.com/Comfy-Themes/Spicetify) theme with Everforest color scheme. Use [Spicetify](https://spicetify.app/) to apply the theme.
 
 ### GNOME Extensions
+Some of the GNOME extensions I find essential:
 - [ArcMenu](https://extensions.gnome.org/extension/3628/arcmenu/)
 - [Blur my Shell](https://extensions.gnome.org/extension/3193/blur-my-shell/)
 - [Dash to Dock](https://extensions.gnome.org/extension/307/dash-to-dock/)
